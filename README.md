@@ -1,4 +1,4 @@
 # PLPBasicGitAssignment
 
 
-"Hello,Git!"
+"Add hello.txt with a greeting"
