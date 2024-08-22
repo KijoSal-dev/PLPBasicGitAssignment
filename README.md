@@ -1,4 +1,2 @@
 # PLPBasicGitAssignment
 
-
-hello.txt
